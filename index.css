@@ -1,0 +1,19 @@
+body{
+  background-color: #EAE8E3;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: #EAE8E3;;
+}
+
+.redirect-btn{
+  background-color: #203342;
+  width: 176px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 128px;
+  padding: 8px;
+  border-radius: 4px 4px;
+}
